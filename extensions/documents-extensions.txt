@@ -1,0 +1,17 @@
+doc
+docx
+xls
+xlsx
+ppt
+pptx
+pdf
+csv
+tsv
+odt
+ods
+odp
+pages
+numbers
+key
+txt
+rtf

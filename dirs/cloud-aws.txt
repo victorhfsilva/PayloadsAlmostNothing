@@ -1,0 +1,13 @@
+aws-credentials
+aws-secrets
+aws.env
+aws/config
+aws/credentials
+cdk.context.json
+cdk.json
+credentials
+samconfig.toml
+serverless.yml
+ssm-parameters.json
+template.yaml
+template.yml

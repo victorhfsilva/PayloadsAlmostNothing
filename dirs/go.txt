@@ -1,0 +1,6 @@
+debug/pprof
+debug/vars
+go.mod
+go.sum
+golangci.yml
+goreleaser.yml
